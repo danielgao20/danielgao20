@@ -1,6 +1,6 @@
 ## Hey what's up!
 
-My name is Daniel, I'm a junior at USC studying CS and business, currently exploring software engineering and entrepreneurial projects. 
+My name is Daniel, I'm a junior at USC studying computer science and business administration, currently exploring software engineering and entrepreneurial projects. 
 
 I've previously worked on full-stack projects at Amazon and IBM.
 
